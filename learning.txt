@@ -6,3 +6,7 @@ java
 c
 c++
 spring boot
+
+python 
+djongo
+n bye
